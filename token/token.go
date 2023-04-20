@@ -24,8 +24,8 @@ const (
 	// ()	丸括弧	パーレンシス(parenthesis)
 	// []	角括弧	ブラケット(bracket)
 	// {}	波括弧	ブレース(brace)
-	LRAREN = "("
-	RRAREN = ")"
+	LPAREN = "("
+	RPAREN = ")"
 	LBRACE = "{"
 	RBRACE = "}"
 
